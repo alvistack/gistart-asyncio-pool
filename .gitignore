@@ -16,3 +16,5 @@ local_settings.py
 
 !.gitkeep
 !/.gitignore
+
+.pybuild/
