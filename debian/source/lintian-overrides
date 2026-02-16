@@ -1,0 +1,4 @@
+python-asyncio-pool source: file-without-copyright-information
+python-asyncio-pool source: no-debian-changes
+python-asyncio-pool source: source-contains-prebuilt-windows-binary
+python-asyncio-pool source: source-package-encodes-python-version
